@@ -8,7 +8,6 @@
 // @license https://creativecommons.org/licenses/by-sa/4.0/
 // @icon         https://github.com/rhtzy/Adblock-bypass/blob/main/bypass-icon.png
 // @homepage https://github.com/rhtzy/Adblock-bypass
-// @updateURL https://github.com/rhtzy/Adblock-bypass/blob/main/adblock-bypass.js
 // @include http://*/*
 // @include https://*/*
 // @grant unsafeWindow
