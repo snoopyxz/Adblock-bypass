@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name Adblock-Bypass | Nyxs
-// @namespace https://userscripts.org/scripts/show/155840
 // @description Helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
 // @author Nyxs |
 // @version 10.0
