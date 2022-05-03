@@ -73,7 +73,7 @@
   "use strict";
   
   var Aak = {
-    name : 'Anti-Adblock Killer',
+    name : 'Adblock-Bypass',
     version : '10.0',
     scriptid : 'gJWEp0vB',
     homeURL : 'https://github.com/reek/anti-adblock-killer/',
