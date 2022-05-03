@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: Adblock-Bypass
-! Author: Diogo |
+! Author: Nyxs |
 ! Version: 10.0
-! Expires: 1 days
+! Expires: 9999999999999999999 days
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
 ! Homepage: https://github.com/rhtzy/Adblock-bypass
 !
