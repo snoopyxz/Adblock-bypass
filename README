@@ -1,12 +1,10 @@
 1- Install Adblock Plus, uBloxk Origin, TamperMonkey ;
 
-2- Go to http://reek.github.io/anti-adblock-killer/#filterlist ;
+2- Copy RAW .txt https://raw.githubusercontent.com/rhtzy/Adblock-bypass/main/adblock-bypass-filters.txt ;
 
-3- Copy RAW .txt;
+3- Adblock Plus Settings - Advance - Add new filter list and past the raw link and add ;
 
-4- Adblock Plus Settings - Advance - Add new filter list and past the raw link and add ;
+4- uBlock Origin - Filter list - Import - Paste raw link - Apply changes then update now ;
 
-5- uBlock Origin - Filter list - Import - Paste raw link - Apply changes then update now ;
-
-6- Open Adblock-Bypass - Nyxs.user.js click raw and install.
+5- Open Adblock-Bypass - Nyxs.user.js click raw and install.
 
