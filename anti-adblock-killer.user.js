@@ -2,7 +2,7 @@
 // @name Adblock-Bypass | Nyxs
 // @namespace https://userscripts.org/scripts/show/155840
 // @description Helps you keep your Ad-Blocker active, when you visit a website and it asks you to disable.
-// @author Reek | reeksite.com
+// @author Nyxs |
 // @version 10.0
 // @encoding utf-8
 // @license https://creativecommons.org/licenses/by-sa/4.0/
