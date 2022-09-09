@@ -42,7 +42,7 @@
     version : '10.0',
     scriptid : 'gJWEp0vB',
     homeURL : 'https://github.com/rhtzy/Adblock-bypass',
-    listURL : "https://raw.githubusercontent.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt",
+    listURL : "https://raw.githubusercontent.com/rhtzy/Adblock-bypass/main/adblock-bypass-filters.txt",
     iconURL : 'https://github.com/rhtzy/Adblock-bypass/blob/main/bypass-icon.png',
     imgBait : 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAQAAADZc7J/AAAAGklEQVR42mNg0GAYBaNgFIyCUTAKRsEoQAYATN8AKYNZ/x4AAAAASUVORK5CYII=',
     initialize : function () {
